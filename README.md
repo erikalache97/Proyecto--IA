@@ -8,7 +8,7 @@
 
 [![BannerIA.png](https://i.postimg.cc/0QvmYvzr/BannerIA.png)](https://postimg.cc/94xr2vtj)
 
-**Autor:** Erika Yamile Lache Blanco
+**Autor:** Erika Yamile Lache Blanco - 2140348
 
 **Objetivo**
 
