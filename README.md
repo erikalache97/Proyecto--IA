@@ -18,5 +18,5 @@
 
 **Enlaces del código, video, y repositorio**
 1. código: https://colab.research.google.com/drive/1uLw87WVOtCss_FpYy4h27lhuGeKk5O7M?usp=sharing
-2. video: 
+2. video: https://youtu.be/EL594MceVII 
 3. repositorio: https://github.com/erikalache97/Proyecto--IA
